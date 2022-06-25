@@ -4,10 +4,10 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-public class SingUpPage {
+public class singUpPage {
     private WebDriver driver;
 
-    public SingUpPage(WebDriver driver) {
+    public singUpPage(WebDriver driver) {
         this.driver = driver;
     }
 
